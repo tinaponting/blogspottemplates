@@ -4,7 +4,8 @@ Blogger templates Thats works with blospot/blogger.
 
 * Added: Rediction of blog for more visitors.
 
-* THEMES: 
+* THEMES:
+* Heather, woman style theme.
 * Arcadia, Nice theme, works for Infuencers, photo, Presentations and so on.
 * shangrila-2020b  - A typical woman theme, very nicve with lots of options.
 * Natalie - A nice woman theme.
