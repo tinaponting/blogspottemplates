@@ -5,6 +5,7 @@ Blogger templates Thats works with blospot/blogger.
 * Added: Rediction of blog for more visitors.
 
 * THEMES:
+* * Moon child theme, great theme:)
 * Rosenstein, great theme for woman blogger, personal blogger.
 * Heather, woman style theme.
 * Arcadia, Nice theme, works for Infuencers, photo, Presentations and so on.
